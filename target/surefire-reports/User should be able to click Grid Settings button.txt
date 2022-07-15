@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: User should be able to click Grid Settings button
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.771 s - in User should be able to click Grid Settings button
